@@ -1,0 +1,10 @@
+{
+  "name": "user-manager",
+  "version": "3.0.0",
+  "description": "My Project",
+  "author": "Ozlem",
+  "dependencies": {
+    "@types/jquery": "^3.5.6",
+    "jquery": "^3.6.0"
+  }
+}
